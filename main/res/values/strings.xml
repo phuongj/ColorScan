@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Color Scanner</string>
+
+    <!-- Home Activity -->
+    <string name="home_title">Color Scanner</string>
+    <string name="home_scan">Scan</string>
+</resources>
